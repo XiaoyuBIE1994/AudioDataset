@@ -12,6 +12,7 @@ A list of audio datasets that I often used
 * [Libri2Mix](https://github.com/JorisCos/LibriMix), **TBD**
 * [Divide and Remaster (DnR)](https://zenodo.org/records/6949108)
   - Single channel mixture with speech, music, and sound effects/background stems, 44.1 kHz
+  - Audio source: librispeech (speech), free music archive (music), FSD50k (sound effect)
   - Cinematic demixing challenge ([link](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023/problems/cinematic-sound-demixing-track-cdx-23))
   - Each utterance is 60s, with 3,406 mixtures (∼ 57 h) for the training set, 487 mixtures (∼ 8 h) for the validation set, and 973 mixtures ( ∼16 h) for the test set
 
