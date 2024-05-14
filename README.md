@@ -27,13 +27,13 @@ A list of audio datasets that I often used
   - test-clean:
   - test-other:
  
-  ## Music
-  * [StarNet](https://zenodo.org/records/6917099). Classical music pieces obtained from their corresponding free MIDI files,
-    - 104 tracks in 48 kHz.
-    - Tracks:
-      - xxx.0.wav: the clarinet-vibraphone mixture
-      - xxx.1.wav: the clarinet track-
-      - xxx.2.wav: the vibraphone track
-      - xxx.3.wav: the strings-piano mixture
-      - xxx.4.wav: the strings track
-      - xxx.5.wav: the piano track 
+## Music
+* [StarNet](https://zenodo.org/records/6917099). Classical music pieces obtained from their corresponding free MIDI files,
+  - 104 tracks in 48 kHz.
+  - Tracks:
+    - xxx.0.wav: the clarinet-vibraphone mixture
+    - xxx.1.wav: the clarinet track-
+    - xxx.2.wav: the vibraphone track
+    - xxx.3.wav: the strings-piano mixture
+    - xxx.4.wav: the strings track
+    - xxx.5.wav: the piano track 
