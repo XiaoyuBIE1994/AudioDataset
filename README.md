@@ -14,9 +14,11 @@ A list of audio datasets that I often used
   - trainset: 100 hours + 360 hours + 500 hours (960 hours in total, )
   - dev-clean/other:
   - test-clean/other:
-* [DNS-Challenge 5](https://github.com/microsoft/DNS-Challenge)
-  -  
- 
+* [DNS-Challenge 5](https://github.com/microsoft/DNS-Challenge), contain multilingual clean speech and various noise in 
+  - Clean Speech
+  - Noise
+
+  
 ## Music
 * [StarNet](https://zenodo.org/records/6917099). Classical music pieces obtained from their corresponding free MIDI files,
   - 104 tracks in 48 kHz.
@@ -27,6 +29,7 @@ A list of audio datasets that I often used
     - xxx.3.wav: the strings-piano mixture
     - xxx.4.wav: the strings track
     - xxx.5.wav: the piano track 
+
 
 ## Audio Mixture
 * [Libri2Mix](https://github.com/JorisCos/LibriMix), **TBD**
