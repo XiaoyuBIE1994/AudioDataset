@@ -12,10 +12,10 @@ A list of audio datasets that I often used
   - 56 speakers version, **TBD**
 * [LibriSpeech](https://www.openslr.org/12), ~ 1000 hours of 16kHz read English speech corpus, **TBD**
   - trainset: 100 hours + 360 hours + 500 hours (960 hours in total, )
-  - dev-clean:
-  - dev-other:
-  - test-clean:
-  - test-other:
+  - dev-clean/other:
+  - test-clean/other:
+* [DNS-Challenge 5](https://github.com/microsoft/DNS-Challenge)
+  -  
  
 ## Music
 * [StarNet](https://zenodo.org/records/6917099). Classical music pieces obtained from their corresponding free MIDI files,
@@ -35,3 +35,8 @@ A list of audio datasets that I often used
   - Audio source: librispeech (speech), free music archive (music), FSD50k (sound effect)
   - Cinematic demixing challenge ([link](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023/problems/cinematic-sound-demixing-track-cdx-23))
   - Each utterance is 60s, with 3,406 mixtures (∼ 57 h) for the training set, 487 mixtures (∼ 8 h) for the validation set, and 973 mixtures ( ∼16 h) for the test set
+* [MUSAN](https://www.openslr.org/17/)
+  - A corpus of music, speech and noise in 16 kHz, suitable for voice activity detection (VAD) and music/speech discrimination
+  - Speech: 426 utterances (~ 60 hours), source from LibriVox and US Gov
+  - Music: 660 utterances (~ 42 hours), source from Jamendo, Free Music Archive, Incompetech, and HD Classical Music
+  - Noise: 930 utterances (~ 6 hours), source from Free Sound and Sound Bible
