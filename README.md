@@ -14,7 +14,7 @@ A list of audio datasets that I often used
   - trainset: 100 hours + 360 hours + 500 hours (960 hours in total, )
   - dev-clean/other:
   - test-clean/other:
-* [Libri-light](https://github.com/facebookresearch/libri-light/blob/main/data_preparation/README.md), contain unlabled speech corpus
+* [Libri-light](https://github.com/facebookresearch/libri-light/blob/main/data_preparation/README.md), contain unlabled speech corpus around 60k hours
   - small: 577 hours
   - medium: 5,193 hours
   - large: 51,934 hours
