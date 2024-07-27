@@ -14,9 +14,14 @@ A list of audio datasets that I often used
   - trainset: 100 hours + 360 hours + 500 hours (960 hours in total, )
   - dev-clean/other:
   - test-clean/other:
+* [Libri-light](https://github.com/facebookresearch/libri-light/blob/main/data_preparation/README.md), contain unlabled speech corpus
+  - small: 577 hours
+  - medium: 5,193 hours
+  - large: 51,934 hours
 * [DNS-Challenge 5](https://github.com/microsoft/DNS-Challenge), contain multilingual clean speech and various noise in 
-  - Clean Speech
+  - Clean Speech: 
   - Noise
+
 
   
 ## Music
@@ -33,6 +38,9 @@ A list of audio datasets that I often used
 
 ## Audio Mixture
 * [Libri2Mix](https://github.com/JorisCos/LibriMix), **TBD**
+* [AudioSet](https://research.google.com/audioset/index.html), general audio corpus
+  - unbalanced audio:
+  - balanced audio: 
 * [Divide and Remaster (DnR)](https://zenodo.org/records/6949108)
   - Single channel mixture with speech, music, and sound effects/background stems, 44.1 kHz
   - Audio source: librispeech (speech), free music archive (music), FSD50k (sound effect)
